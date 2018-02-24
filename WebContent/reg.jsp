@@ -21,7 +21,7 @@
                 <!--<p class="tel-warn hide"><i class="icon-warn"></i></p>-->
                 <form>
                     <p class="p-input pos">
-                        <label for="tel">邮箱号</label>
+                        <label for="tel">输入邮箱号</label>
                         <input type="email" id="tel" autocomplete="off">
                         <span class="tel-warn tel-err hide"><em></em><i class="icon-warn"></i></span>
                     </p>
