@@ -115,7 +115,6 @@ $(function(){
 	            data: {"email":email},
 	            success:function(data){
 	                if (data.result == 'success') {
-	                	//test
 	                	// globalTip({'msg':'登录成功!','setTime':3,'jump':true,'URL':'http://www.ui.cn'});
 	                	alert("邮件发送成功");
 	                  	var oTime = $(".form-data .time"),
